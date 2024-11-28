@@ -56,7 +56,7 @@ This repository contains information about the 2024 Handong University C Program
     - `Repeat Password`: Re-enter the **password** to confirm.
 
     An example of correctly filled fields is shown below:
-    ![Register Example](imgs/2_kr.png)
+    ![Register Example](imgs/2_en.png)
 
     After completing all fields, click the `Register` button.
 
