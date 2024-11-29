@@ -7,6 +7,8 @@ Last Updated: November 30, 2024.
 
 This repository contains information about the 2024 Handong University C Programming Contest. All participants must review the details below carefully before taking part in the contest.
 
+---
+
 ## Table of Contents
 - [Contest Overview](#contest-overview)
 - [Contest Rules](#contest-rules)
@@ -18,6 +20,8 @@ This repository contains information about the 2024 Handong University C Program
 - Appendix
     - [Compiler Information](#compiler-information)
 
+---
+
 ## Contest Overview
 
 > [!IMPORTANT]
@@ -28,6 +32,8 @@ This repository contains information about the 2024 Handong University C Program
     - Practice Contest: A practice session is available to familiarize participants with the contest platform.
 - Participants: GLS undergraduate students and non-CS major students in the School of Computer Science and Electrical Engineering at Handong University
 - Format: [Online (https://contest.walab.info/)](https://contest.walab.info/)
+
+---
 
 ## Contest Rules
 
@@ -77,6 +83,8 @@ This repository contains information about the 2024 Handong University C Program
         - Communicating or collaborating with others
         - Hardcoding (e.g., directly embedding answers in the code)
         - Any actions that undermine the fairness or integrity of the contest
+
+---
 
 ## Contest Website Guide
 
@@ -210,6 +218,8 @@ Complete the form and click `Send`:
     - `Technical issue`: Questions about the platform
     - Problem number: Questions about a specific problem
 - `Message`: Question content
+
+---
 
 ## Appendix
 
