@@ -3,7 +3,7 @@
 > [!NOTE]
 > This document is also available in English. Please refer to the [README_EN.md](README_EN.md) file.
 
-마지막 업데이트: 2024. 11. 30.
+마지막 업데이트: 2024. 12. 03.
 
 이 코드 저장소는 2024 한동대학교 C 프로그래밍 경진대회에 대한 정보를 담고 있습니다. 대회 참가자 분들 께서는 반드시 아래 내용을 숙지하시고, 대회에 임해주시기 바랍니다.
 

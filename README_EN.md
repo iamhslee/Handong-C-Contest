@@ -3,7 +3,7 @@
 > [!NOTE]
 > 이 문서는 한국어로도 제공됩니다. [README.md](README.md) 파일을 참고하세요.
 
-Last Updated: November 30, 2024.
+Last Updated: December 3, 2024.
 
 This repository contains information about the 2024 Handong University C Programming Contest. All participants must review the details below carefully before taking part in the contest.
 
