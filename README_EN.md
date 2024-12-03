@@ -42,18 +42,20 @@ This repository contains information about the 2024 Handong University C Program
 
 1. All problems must be solved using the C programming language.
 
-2. Participants who do not register properly will not be recognized as official contestants.
+1. Participants who do not register properly will not be recognized as official contestants.
     - Refer to the [Account Creation](#account-creation) guide to create your account.
 
-3. During the contest, you may solve and submit problems as many times as you wish.
+1. The act of using someone else’s account to participate in a competition or participating on behalf of someone else is strictly prohibited.
+
+1. During the contest, you may solve and submit problems as many times as you wish.
     - If the same problem is submitted multiple times, only the first correct submission will be scored.
 
-4. No submissions will be accepted after the contest ends.
+1. No submissions will be accepted after the contest ends.
 
-5. The filename for all submitted code must follow this format:
+1. The filename for all submitted code must follow this format:
     - `ProblemCode_StudentID.c` (e.g., `A_22400123.c`)
 
-6. Include the following comment block at the top of each submitted code file:
+1. Include the following comment block at the top of each submitted code file:
    ```c
    /*
    * [Full Name]: <Your Name>
@@ -71,7 +73,7 @@ This repository contains information about the 2024 Handong University C Program
    */
    ```
 
-7. Permitted and prohibited actions during the contest:
+1. Permitted and prohibited actions during the contest:
     - Permitted actions:
         - Referencing the following websites:
             - This GitHub repository
