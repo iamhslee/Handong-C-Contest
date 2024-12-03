@@ -28,9 +28,9 @@ This repository contains information about the 2024 Handong University C Program
 > Do not create an account until you review the [Account Creation](#account-creation) guide. Failure to follow the specified process may result in disqualification.
 
 - Contest Name: 2024 Handong University C Programming Contest
-- Date: Friday, December 6, 2024, at 8:00 PM
+- Date: December 6, 2024 (Fri) 20:00 - 22:00
     - Practice Contest: A practice session is available to familiarize participants with the contest platform.
-- Participants: GLS undergraduate students and non-CS major students in the School of Computer Science and Electrical Engineering at Handong University
+- Participants: GLS undergraduate students and non-CSEE major students
 - Format: [Online (https://contest.walab.info/)](https://contest.walab.info/)
 
 ---
