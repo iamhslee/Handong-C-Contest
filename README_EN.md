@@ -48,8 +48,6 @@ This repository contains information about the 2024 Handong University C Program
 1. Participants who do not register properly will not be recognized as official contestants.
     - Refer to the [Account Creation](#account-creation) guide to create your account.
 
-1. The act of using someone else’s account to participate in a competition or participating on behalf of someone else is strictly prohibited.
-
 1. During the contest, you may solve and submit problems as many times as you wish.
     - If the same problem is submitted multiple times, only the first correct submission will be scored.
 
@@ -86,7 +84,7 @@ This repository contains information about the 2024 Handong University C Program
         - Referencing websites other than those listed above
         - Using generative AI, LLMs, or similar software (e.g., ChatGPT, Cursor, GitHub Copilot, etc.)
         - Communicating or collaborating with others
-        - Proxy participation
+        - Using someone else’s account or proxy participating
         - Hardcoding (e.g., directly embedding answers in the code)
         - Any actions that undermine the fairness or integrity of the contest
 
