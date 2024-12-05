@@ -3,7 +3,7 @@
 > [!NOTE]
 > 이 문서는 한국어로도 제공됩니다. [README.md](README.md) 파일을 참고하세요.
 
-Last Updated: December 3, 2024.
+Last Updated: December 5, 2024.
 
 This repository contains information about the 2024 Handong University C Programming Contest. All participants must review the details below carefully before taking part in the contest.
 
@@ -32,6 +32,7 @@ This repository contains information about the 2024 Handong University C Program
     - Practice Contest: A practice session is available to familiarize participants with the contest platform.
 - Participants: GLS undergraduate students and non-CSEE major students
 - Format: [Online (https://contest.walab.info/)](https://contest.walab.info/)
+- Number of Problems: 10 (A ~ J)
 
 ---
 
@@ -52,10 +53,10 @@ This repository contains information about the 2024 Handong University C Program
 
 1. No submissions will be accepted after the contest ends.
 
-1. The filename for all submitted code must follow this format:
+1. All submitted code files must adhere to the following naming convention:
     - `ProblemCode_StudentID.c` (e.g., `A_22400123.c`)
 
-1. Include the following comment block at the top of each submitted code file:
+1. All submitted code must include the following honor code declaration as a comment at the top:
    ```c
    /*
    * [Full Name]: <Your Name>
@@ -83,6 +84,7 @@ This repository contains information about the 2024 Handong University C Program
         - Referencing websites other than those listed above
         - Using generative AI, LLMs, or similar software (e.g., ChatGPT, Cursor, GitHub Copilot, etc.)
         - Communicating or collaborating with others
+        - Proxy participation or pair programming
         - Hardcoding (e.g., directly embedding answers in the code)
         - Any actions that undermine the fairness or integrity of the contest
 
@@ -218,7 +220,7 @@ Complete the form and click `Send`:
 - `Subject`: Topic of the question
     - `General issue`: General contest questions
     - `Technical issue`: Questions about the platform
-    - Problem number: Questions about a specific problem
+    - `Problem number`: Questions about a specific problem
 - `Message`: Question content
 
 ---
