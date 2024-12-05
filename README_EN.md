@@ -43,6 +43,8 @@ This repository contains information about the 2024 Handong University C Program
 
 1. All problems must be solved using the C programming language.
 
+1. This is a contest to evaluate the C programming skills of freshman students. Code that significantly exceeds the level of the course content may incur penalties.
+
 1. Participants who do not register properly will not be recognized as official contestants.
     - Refer to the [Account Creation](#account-creation) guide to create your account.
 
@@ -84,7 +86,7 @@ This repository contains information about the 2024 Handong University C Program
         - Referencing websites other than those listed above
         - Using generative AI, LLMs, or similar software (e.g., ChatGPT, Cursor, GitHub Copilot, etc.)
         - Communicating or collaborating with others
-        - Proxy participation or pair programming
+        - Proxy participation
         - Hardcoding (e.g., directly embedding answers in the code)
         - Any actions that undermine the fairness or integrity of the contest
 
