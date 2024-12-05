@@ -57,7 +57,8 @@ This repository contains information about the 2024 Handong University C Program
     - `ProblemCode_StudentID.c` (e.g., `A_22400123.c`)
 
 1. All submitted code must include the following honor code declaration as a comment at the top:
-   ```c
+   
+   ```
    /*
    * [Full Name]: <Your Name>
    * [Student ID]: <Your Student ID>
@@ -65,8 +66,9 @@ This repository contains information about the 2024 Handong University C Program
    */
    ```
 
-   Example:
-   ```c
+   e.g.
+
+   ```
    /*
    * [Full Name]: Hong Gildong
    * [Student ID]: 22400123
