@@ -32,7 +32,7 @@ This repository contains information about the 2024 Handong University C Program
     - Practice Contest: A practice session is available to familiarize participants with the contest platform.
 - Participants: GLS undergraduate students and non-CSEE major students
 - Format: [Online (https://contest.walab.info/)](https://contest.walab.info/)
-- Number of Problems: 10 (A ~ J)
+- Number of Problems: 9 (A ~ I)
 
 ---
 
