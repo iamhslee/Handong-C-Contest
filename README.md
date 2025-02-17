@@ -1,4 +1,4 @@
-# 2024 Handong C Boot Camp
+# 2025 Handong C Boot Camp
 
 마지막 업데이트: 2025. 02. 17.
 
